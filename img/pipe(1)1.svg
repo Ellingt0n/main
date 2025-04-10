@@ -1,0 +1,45 @@
+<svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="pipe (1) 1">
+<g id="g879">
+<g id="g881">
+<g id="Clip path group">
+<mask id="mask0_449_19823" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="22" height="22">
+<g id="clipPath887">
+<path id="path885" d="M21.25 21.25V0.750002H0.75V21.25H21.25Z" fill="white" stroke="white" stroke-width="1.5"/>
+</g>
+</mask>
+<g mask="url(#mask0_449_19823)">
+<g id="g883">
+<g id="g889">
+<path id="path891" d="M9.75391 14.8672H0.644531V7.13281H9.75391" stroke="#2E3439" stroke-width="1.5" stroke-miterlimit="10"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<path id="path893" d="M13.6211 16.1562H9.75391V5.84375H13.6211V16.1562Z" stroke="#2E3439" stroke-width="1.5" stroke-miterlimit="10"/>
+<g id="g895">
+<g id="Clip path group_2">
+<mask id="mask1_449_19823" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="22" height="22">
+<g id="clipPath901">
+<path id="path899" d="M21.25 21.25V0.750002H0.75V21.25H21.25Z" fill="white" stroke="white" stroke-width="1.5"/>
+</g>
+</mask>
+<g mask="url(#mask1_449_19823)">
+<g id="g897">
+<g id="g903">
+<path id="path905" d="M13.6211 8.42188H21.3555V13.5781H13.6211" stroke="#2E3439" stroke-width="1.5" stroke-miterlimit="10"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g id="g907">
+<path id="path909" d="M18.7773 15.5117V6.48828" stroke="#2E3439" stroke-width="1.5" stroke-miterlimit="10"/>
+</g>
+<g id="g911">
+<path id="path913" d="M16.1992 15.5117V6.48828" stroke="#2E3439" stroke-width="1.5" stroke-miterlimit="10"/>
+</g>
+</g>
+</g>
+</svg>
